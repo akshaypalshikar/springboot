@@ -1,4 +1,4 @@
-package org.aks.demo.springboot.demo;
+package org.aks.demo.springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
